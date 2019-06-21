@@ -1,0 +1,22 @@
+{
+  "name": "pedroxbot",
+  "version": "1.0.0",
+  "description": "yeah, it's the pedrox's bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "px!test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroxTheBest99/PedroxBot.git"
+  },
+  "author": "PedroxTheBest99",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PedroxTheBest99/PedroxBot/issues"
+  },
+  "homepage": "https://github.com/PedroxTheBest99/PedroxBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
